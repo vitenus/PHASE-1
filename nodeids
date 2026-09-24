@@ -1,0 +1,11 @@
+[
+  "tests/test_economics.py::test_business_case",
+  "tests/test_economics.py::test_payback",
+  "tests/test_economics.py::test_projected_payback",
+  "tests/test_economics.py::test_realized_roi",
+  "tests/test_economics.py::test_roi",
+  "tests/test_scoring.py::test_ia_redistributes_missing_weights",
+  "tests/test_scoring.py::test_index_extremes",
+  "tests/test_scoring.py::test_ipc",
+  "tests/test_scoring.py::test_rea_boundaries"
+]
