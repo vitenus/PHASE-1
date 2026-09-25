@@ -1,0 +1,4 @@
+{
+  "tests/test_economics.py": true,
+  "tests/test_scoring.py": true
+}
